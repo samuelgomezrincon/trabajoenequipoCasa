@@ -1,2 +1,2 @@
 # trabajoenequipoCasa
-Practica tercer videdo victor
+Practica tercer video victor
